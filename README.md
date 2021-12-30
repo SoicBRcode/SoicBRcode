@@ -17,7 +17,7 @@ Programming languages that I know (approximately from most fluent to least fluen
 - Lua
 - Python
 - BatchScript
-- C++ (I don't use it anymore, never got too far with it, could relearn if I wanted)
+- C++ (I don't use it anymore, never got too far with it, could relearn it if I wanted)
 - Brain**** (It's an esolang)
 
 
