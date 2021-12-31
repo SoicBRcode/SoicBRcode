@@ -8,7 +8,7 @@ What I currently do with my coding skills:
 - maintain my Minecraft server
 
 
-Programming languages that I know (approximately from most fluent to least fluent):
+List of non-esoteric programming languages that I know (approximately from most fluent to least fluent):
 - C#
 - GDScript
 - C
@@ -18,7 +18,6 @@ Programming languages that I know (approximately from most fluent to least fluen
 - Python
 - BatchScript
 - C++ (I don't use it anymore, never got too far with it, could relearn it if I wanted)
-- Brain**** (It's an esolang)
 
 
 # My Minecraft server
