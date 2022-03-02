@@ -1,5 +1,3 @@
-# About me
-
 I'm just a programmer that codes for fun.
 
 ![SoicBRs GitHub stats](https://github-readme-stats.vercel.app/api?username=SoicBRcode&count_private=true&theme=dracula)
