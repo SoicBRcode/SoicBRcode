@@ -19,8 +19,7 @@ List of non-esoteric programming languages that I know (approximately from most 
 - BatchScript
 - C++ (I don't use it anymore, never got too far with it, could relearn it if I wanted)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoicBRcode&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoicBRcode&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Minecraft server
 
