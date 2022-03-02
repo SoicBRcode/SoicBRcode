@@ -6,6 +6,7 @@ I'm just a programmer that codes for fun.
 
 
 What I currently do with my coding skills:
-- gamedev
-- esolangs
-- maintain my Minecraft server
+- gamedev;
+- esolangs;
+- maintain my Minecraft server;
+- etc.
